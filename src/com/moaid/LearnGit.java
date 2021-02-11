@@ -6,6 +6,7 @@ public class LearnGit {
 		
      System.out.print("Hola Mi Hirmanan");
      System.out.print("Hola Mi Hirmanan");
+     System.out.print("Hola Mi Hirmanan");
 
 	}
 
